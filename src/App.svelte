@@ -8,7 +8,7 @@
 </style>
 
 <Navbar />
-<Title />
+<Title title='Add Expense'/>
 
 
 
